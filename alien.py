@@ -1,7 +1,7 @@
 import pygame
 from pygame.sprite import Sprite
 #a = "F:\Python\Python_Basics\Alines_invasion\Images\Alien.bmp"
-b = "D:\Python\Phase 1\Alines_invasion\Images\Alien.bmp"
+b = "Alien.bmp"
 class Alien(Sprite):
 	"""A class to represent a single aline in the fleet."""
 	

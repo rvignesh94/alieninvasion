@@ -3,7 +3,7 @@ from pygame.sprite import Sprite
 #a = "F:\Python\Python_Basics\Alines_invasion\Images\ship.bmp"
 
 
-b = "D:\Python\Phase 1\Alines_invasion\Images\ship.bmp"
+b = "ship.bmp"
 
 
 class Ship(Sprite):
